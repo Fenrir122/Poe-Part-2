@@ -10,6 +10,8 @@ w3newbie (2018). Bootstrap 4 Carousel Image Slider - HTML5 and CSS3 Tutorial. [o
 
 Lineberry, C. and Anderson, S. (2007). The Worldwide History of Tattoos. [online] Smithsonian Magazine. Available at: https://www.smithsonianmag.com/history/tattoos-worldwide-history-144038580/.
 
+Forms (News letter)
+
 ‌![alt text](<Screenshot 2024-11-07 232144.png>)
 
 ![alt text](<Screenshot 2024-11-07 232247.png>)
